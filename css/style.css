@@ -5,11 +5,10 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Ubuntu', sans-serif;
 }
-.container {
+/* .container {
     width: 90%;
     margin: 0 auto;
- 
-}
+} */
 #banner{
     text-align: center;
     background-image: url('bg2.png');
@@ -32,7 +31,9 @@ section{
     height: 150px;
     
 }
-
+/* body{
+    overflow-x: hidden;
+} */
 
 
 #banner h2,p{
